@@ -68,7 +68,7 @@ Second level header
 ###### H6 header
 
 
-Create a table of contents:
+## Create a table of contents:
 
 On your `_config.yaml`, define the levels of your toc:
 
@@ -88,7 +88,8 @@ Ignore specific headers:
 
 ```
 
-## This header would be ignored on the toc.
+### This header would be ignored on the toc.
+{:.no_toc}
 
 Add this to generate table
 
