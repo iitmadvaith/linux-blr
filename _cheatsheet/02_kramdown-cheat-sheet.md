@@ -68,6 +68,41 @@ Second level header
 ###### H6 header
 
 
+Create a table of contents:
+
+On your `_config.yaml`, define the levels of your toc:
+
+```yaml
+kramdown:
+  ...
+  toc_levels: 2..6
+
+```
+
+Ignore specific headers:
+
+```markdown
+
+## This header would be ignored on the toc.
+{:.no_toc}
+
+```
+
+## This header would be ignored on the toc.
+
+Add this to generate table
+
+```markdown
+
+* This line is needed, but won't appear. Replace '*' with '1' to create a numbered list.
+{:toc}
+
+
+```
+
+* This line is needed, but won't appear. Replace '*' with '1' to create a numbered list.
+{:toc}
+
 
 ```markdown
 > A sample blockquote.
