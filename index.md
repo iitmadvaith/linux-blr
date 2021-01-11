@@ -16,7 +16,7 @@ Contains basic configuration to get you a site with:
 - Sample 404 page.
 - Site search with Lunr.
 - Sample `_config` with minimal configuration. `primary` color is set to <span class="text-primary">LightSkyBlue</span> and `autothemer` is enabled. [Learn how to customize your site](https://dieghernan.github.io/chulapa/docs/03-theming).
-- Sample `.travis.yml` for using Algolia+Travis CI.
+- Sample `algolia-search.yml` for using Algolia+GitHub Actions.
 - Sample files for extending the theme with your own scripts and css.
 
 On addition, `jekyll-sitemap` generates your sitemap on [./sitemap.xml](./sitemap.xml), and Chulapa generates an Atom feed on [./atom.xml](./atom.xml) and a RSS 2.0 feed on [./rss.xml](./rss.xml).
