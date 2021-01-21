@@ -11,7 +11,7 @@ Contains basic configuration to get you a site with:
 - Sample 404 page.
 - Site search with Lunr.
 - Sample [`_config`](_config.yml) with minimal configuration.
-- Sample [`algolia-search.yml`](README-algolia-search.yml) for using Algolia+GitHub Actions.
+- Sample [`algolia-search.yml`](algolia-search.yml) for using Algolia+GitHub Actions. More guidance in the top of the file.
 - Sample files for extending the theme with your [own scripts](./_includes/custom/) and [css](./assets/css/).
 
 [Configure as necessary](https://dieghernan.github.io/chulapa/docs/02-config) and replace sample content with your own.
