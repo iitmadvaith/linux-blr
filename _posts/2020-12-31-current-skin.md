@@ -1,11 +1,9 @@
 ---
-layout: default
-header_type       : "hero"
-header_img : "./assets/img/gallery/florian-wehde-WBGjg0DsO_g-unsplash.jpg"
+header_type: "hero"
+header_img : "https://picsum.photos/id/1018/2000/2000"
 title: Current skin
 subtitle: Showing al the different Bootstrap components available
-date: 2015-03-03
-last_modified_at: 2018-02-07
+last_modified_at: 2021-02-03
 tags: [skin, bootstrap, current-theme, header-hero, image]
 categories: [skins]
 ---
