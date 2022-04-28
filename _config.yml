@@ -78,7 +78,7 @@ algolia:
     - desc(subtitle)
     
 comments:
-  provider:         #Enable comments via Disqus https://disqus.com/
+  provider:         #Use 'disqus' https://disqus.com/ or 'giscus' https://giscus.app/
   disqus_shortname: #Your site id : check your address https://{{ disqus.shortname }}.disqus.com/admin/
   
 # B. Navigation
