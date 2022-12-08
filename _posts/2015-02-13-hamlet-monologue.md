@@ -1,6 +1,7 @@
 ---
 title: To be
 subtitle: ... or not to be?
+tags: [wikipedia, manuscript]
 ---
 
 To be, or not to be--that is the question:
