@@ -4,7 +4,7 @@ subtitle: "20 centuries ago"
 header_type: splash
 header_img: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Acueducto_Segovia_noche.JPG/1024px-Acueducto_Segovia_noche.JPG"
 categories: [picture]
-tags: [landscape, trips, downtown, project-links, wikipedia]
+tags: [landscape, trips, downtown, project-links, wikipedia, image]
 project_links:
   - url: https://en.wikipedia.org/wiki/Aqueduct_of_Segovia
     icon: "fab fa-wikipedia-w"

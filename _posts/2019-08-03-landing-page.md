@@ -5,7 +5,7 @@ subtitle: With image header
 header_type: image
 header_img: "https://dieghernan.github.io/chulapa/assets/img/site/transparent.png"
 categories: [landing-page]
-tags: [example, demo,layout, guest-author]
+tags: [example, demo,layout, guest-author, image]
 author:
   name: Octocat
   avatar: https://github.com/octocat.png
