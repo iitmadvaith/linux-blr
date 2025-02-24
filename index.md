@@ -12,6 +12,7 @@ Contains basic configuration to get you a site with:
 - Sample posts and [paginated blog index](./blog/).
 - Sample collection with Markdown and kramdown cheatsheets and [collection index](./cheatsheets).
 - Archive pages for posts grouped by year, category, and tag.
+- Github Action for deploying the site.
 - Demo page with the different Bootstrap components and how they look with the actual skin settings.
 - Sample 404 page.
 - Site search with Lunr.
