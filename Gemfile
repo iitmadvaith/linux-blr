@@ -13,9 +13,3 @@ end
 gem 'jekyll-paginate'
 gem 'jekyll-remote-theme'
 gem 'kramdown-parser-gfm'
-
-# Additional dependencies
-gem 'faraday-retry'
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
-gem "webrick"
-gem 'tzinfo-data'
