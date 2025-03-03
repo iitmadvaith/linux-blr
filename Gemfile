@@ -1,9 +1,10 @@
-source 'https://rubygems.org'	
+source 'https://rubygems.org'
+
 # Latest jekyll release
-gem "jekyll", "~> 4.4.1" 
+gem 'jekyll', '~> 4.4'
 
 group :jekyll_plugins do
-  gem 'jekyll-algolia', '~> 1.0'
+  gem 'jekyll-algolia',       '~> 1.0'
   gem 'jekyll-github-metadata'
   gem 'jekyll-sitemap'
   gem 'jekyll-include-cache'
@@ -13,3 +14,6 @@ end
 gem 'jekyll-paginate'
 gem 'jekyll-remote-theme'
 gem 'kramdown-parser-gfm'
+gem 'ostruct'
+gem 'fiddle'
+gem 'faraday-retry'
