@@ -8,11 +8,11 @@ group :jekyll_plugins do
   gem 'jekyll-github-metadata'
   gem 'jekyll-sitemap'
   gem 'jekyll-include-cache'
+  gem 'jekyll-remote-theme'
 end
 
 # Hard dependencies
 gem 'jekyll-paginate'
-gem 'jekyll-remote-theme'
 gem 'kramdown-parser-gfm'
 gem 'ostruct'
 gem 'fiddle'
