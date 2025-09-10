@@ -11,7 +11,7 @@ var store = [{
       "categories": null,
       "date": null,
       "tags": null,
-      "url": "linux-blr.xyz/archive",
+      "url": "http://linux-blr.xyz/archive",
       "img": null
     },{
     "title": "A new start",
@@ -21,6 +21,6 @@ var store = [{
       "categories": ["announcements"],
       "date": "2025-09-08",
       "tags": ["getting started","LUG","announcement"],
-      "url": "linux-blr.xyz/announcements/2025/09/08/a-new-start.html",
+      "url": "http://linux-blr.xyz/announcements/2025/09/08/a-new-start.html",
       "img": null
     }]

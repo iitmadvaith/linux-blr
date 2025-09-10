@@ -1,1 +1,1 @@
-Sitemap: linux-blr.xyz/sitemap.xml
+Sitemap: http://linux-blr.xyz/sitemap.xml
