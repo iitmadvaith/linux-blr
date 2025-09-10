@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" >
+	<generator uri="https://dieghernan.github.io/chulapa" version="1.0.0">Chulapa</generator>
+	<link href="https://dieghernan.github.io/atom.xml" rel="self" type="application/atom+xml" />
+	<link href="https://dieghernan.github.io/" rel="alternate" type="text/html" />
+	<updated>2025-09-10T05:22:49+00:00</updated>
+	<id>https://dieghernan.github.io/atom.xml</id>
+	<title>Linux Users Group Banglore | Linux Users Group Banglore</title>
+	<subtitle>Linux Users Group Banglore</subtitle>
+	<author>
+		<name>Linux User Group Banglore</name>
+					
+	</author>
+	<rights>(c) 2025, Linux User Group Banglore</rights>
+	
+	<logo></logo><entry>
+		<title type="html">A new start</title>
+		<link href="https://dieghernan.github.io/announcements/2025/09/08/a-new-start.html" rel="alternate" type="text/html" title="A new start"/>
+		<published>2025-09-08T00:00:00+00:00</published>
+		<updated>2025-09-08T00:00:00+00:00</updated>
+		<id>https://dieghernan.github.io/announcements/2025/09/08/a-new-start.html</id>
+		<content type="html" xml:base="https://dieghernan.github.io/announcements/2025/09/08/a-new-start.html">
+		
+		
+		&lt;h3&gt;A silly dream for the future&lt;/h3&gt;
+		
+  		
+	&lt;p&gt;5 min.&lt;/p&gt;
+			&lt;h1 id=&quot;a-bit-of-background&quot;&gt;A bit of background&lt;/h1&gt;
+
+&lt;p&gt;Before I get into the meet of this post I want to set a little context. I’ve been using Linux as my primary operating system since I was 15 and been passionate about Free and Open Source Software since I was 14. I’ve wanted to meet others for years and I was able to meet people thanks to KDE India’s conference. It was through this conference I was able to meet Rishi(keys) who also lived in India.&lt;/p&gt;
+
+&lt;p&gt;However before KDE India I attended Opensource India, during this I learned Bangalore had a Linux User Group(LUG) that was active until 2014 where it died as the members moved out of the city(and even the country). I found myself wanting to have that community again,a place where I could meet like minded people. Then this year we managed to get a booth for the KDE community at FOSS India.&lt;/p&gt;
+
+&lt;p&gt;During the lead up to the conference, I had coincidentally ended up meeting someone who was part of the Edmonton LUG and I remembered the old LUG and I thought about how there was this void, yes groups like FOSS United exist, but there wasn’t a Banglore exclusive place nor did this group meet on a regular basis. If everything works out that’s what this group will become. I’m going to take a bit to lay out my plans for the future.&lt;/p&gt;
+
+&lt;p&gt;This post will probably go up on the 13th of September, on the 20th we have FOSS India where me and Rishi are part of the KDE community booth. We plan on using this as an opportunity to let people know we’re restarting this LUG. We plan to run some what informally until we can hold our first in person meeting. Based on the costs associated with venue’s that toastmaster clubs I expect we’ll need to spend ₹3000-₹5000 on this so we would like to host it on a day when as many people as possible show up.&lt;/p&gt;
+
+&lt;p&gt;Before this meeting we will probably hold at least 1 online meeting. For these meetings I do want to get members of our group to give presentations on FOSS projects and related topics. If you are interested please reach out to either me or Rishi, we’ll start getting things sorted. Now in the long term, I believe we should adopt a approach similar to toastmaster clubs for managment division. This means we would have the following roles open for anyone to be elected to.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;President&lt;/li&gt;
+  &lt;li&gt;Vice President of Membership(VPM)&lt;/li&gt;
+  &lt;li&gt;Vice President of Public Relations(VP PR)&lt;/li&gt;
+  &lt;li&gt;Treasurer&lt;/li&gt;
+  &lt;li&gt;Sargent At Arms (SAA)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For those in a toastmasters club you may have noticed a lack of a Vice President of Education(VPE). I couldn’t see a need for a VPE for a LUG, if someone can find a good reason to have a VPE then we can make the role open. I’m going to cover what I believe each role in the quintet should encompase. If you do find yourself in one of these roles you may find you have &lt;em&gt;more&lt;/em&gt; or &lt;em&gt;less&lt;/em&gt; work, that is okay do not worry about it.&lt;/p&gt;
+
+&lt;h2 id=&quot;sargent-at-arms&quot;&gt;Sargent At Arms&lt;/h2&gt;
+
+&lt;p&gt;The SAA is the person who ensures we have everything we need to conduct meetings and ensuring meetings go smoothly. The SAA’s job can be split into 2 parts, before the meeting and during the meeting. Before the meeting the SAA’s job encompases, ensuring that we have a venu for the meeting, gather materials needed for the meeting, keeping a computer ready for the meeting and other materials such as mics etc.&lt;/p&gt;
+
+&lt;p&gt;During the meeting sharing presentaitons, moderating the online meeting etc. If you haven’t had a “leadership” role before this is a great place to get your feet wet, along with this you will be the first speaker so be ready to hype up the audiance.&lt;/p&gt;
+
+&lt;h2 id=&quot;treasurer&quot;&gt;Treasurer&lt;/h2&gt;
+
+&lt;p&gt;This is the most straight forward role. The person in the role manages the finances of the group allowing us to plan out events and make purchases etc. This is a role that requires a lot of care, preferably someone with experince with finances should take this role.&lt;/p&gt;
+
+&lt;h2 id=&quot;vice-president-of-public-relations&quot;&gt;Vice President of Public Relations&lt;/h2&gt;
+
+&lt;p&gt;This role is also some what straight forward. AS a VP PR you’ll need to unfortunalty use propriatery social media apps along with federated ones like mastodon. The VP PR gets new members through the door, raising awareness about our LUG, finding people to make posts for our blog and overall ensuring that the LUG has a flow of new members and putting out recaps for members and putting out agendes for meetings.&lt;/p&gt;
+
+&lt;h2 id=&quot;vice-president-of-membership&quot;&gt;Vice President of Membership&lt;/h2&gt;
+
+&lt;p&gt;Unfortunately this is a rather vauge role currently, the elected group will need to make some decisions but we will cross that bridge in the future. In a vauge sense the VPM group would onboard memebers, signing them up to member only services etc. The group may choose to have a membership fee this would need ot be collected, overall a lot of questions need to be answered for this role, I’m sorry I can’t provide a detailed set of tasks.&lt;/p&gt;
+
+&lt;h2 id=&quot;president&quot;&gt;President&lt;/h2&gt;
+
+&lt;p&gt;Finally the president. As the LUG president you’ll need to sign off on final decisions, set a course for the club and overall keep things moving. You’ll open and close every meeting, so paying attention to what happens in every meeting is important. Your one of the first people everyone hear’s so you need to make a big first impression. Along with this you need to fill in where ever needed, good luck to whomever takes this role.&lt;/p&gt;
+
+&lt;p&gt;Once this group is elected we will be moving towards having our first meeting, figuring out if we want a memberhsip fee a guest fee etc. We will have one or more online meetings before we move towards hybird meetings everyone can enjoy. The comittee will also need to figure out if we want to record meetings and where to upload these so that members can enjoy them. Overall if you’re interested in joining head over to the &lt;a href=&quot;/contact_us&quot;&gt;contact page&lt;/a&gt; and reach out to us.&lt;/p&gt;
+
+		</content>
+		
+		<author>
+			<name>Nullrequest</name></author>
+		<summary type="html">&lt;h1 id=&quot;a-bit-of-background&quot;&gt;A bit of background&lt;/h1&gt;
+</summary>
+		<category term="posts"/>
+		<category term="LUG"/><category term="announcement"/><category term="getting started"/>
+	</entry></feed>
