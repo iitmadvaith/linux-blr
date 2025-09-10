@@ -1,25 +1,27 @@
 ---
 layout: default
-title: Chulapa on remote
+title: Linux Users Group Banglore
 header_type: hero
-subtitle: Starter pack
+subtitle: Bengaluru's Linux Users Group
 ---
 
-Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
+In 2004, Bengaluru's Linux User Group(LUG) unfortunaly stopped meeting and died. We're bringing it back.
 
-Contains basic configuration to get you a site with:
+So why should you join?
 
-- Sample posts and [paginated blog index](./blog/).
-- Sample collection with Markdown and kramdown cheatsheets and [collection index](./cheatsheets).
-- Archive pages for posts grouped by year, category, and tag.
-- Github Action for deploying the site.
-- Demo page with the different Bootstrap components and how they look with the actual skin settings.
-- Sample 404 page.
-- Site search with Lunr.
-- Sample `_config` with minimal configuration. `primary` color is set to <span class="text-primary">LightSkyBlue</span> and `autothemer` is enabled. [Learn how to customize your site](https://dieghernan.github.io/chulapa/docs/03-theming).
-- Sample `algolia-search.yml` for using Algolia+GitHub Actions.
-- Sample files for extending the theme with your own scripts and css.
+- Monthly meetings where you can meet like minded people
+- Forums where you can interact with others
+- Mailing lists!
+- A minor cult?(this is a joke)
 
-On addition, `jekyll-sitemap` generates your sitemap on [./sitemap.xml](./sitemap.xml), and Chulapa generates an Atom feed on [./atom.xml](./atom.xml) and a RSS 2.0 feed on [./rss.xml](./rss.xml).
+Jokes aside we want to create a space of like minded people, and help promote [Free and Open-Source Software(FOSS)](https://en.wikipedia.org/wiki/Free_and_open-source_software). We love FOSS and want to help create a space the FOSS comunitee of Bengaluru can meet. While this is called a Linux Users Group we want to promote all FOSS software not just Linux. This is our plan for the LUG going forward in the short term.
 
-[Configure as necessary](https://dieghernan.github.io/chulapa/docs/02-config) and replace sample content with your own.
+- Soft launch at [FOSS India](https://fossunited.org/indiafoss/2025)
+- First Online meeting, tentatively in October
+- First election and formation of a executive comitee tentatively in November
+- A in person meetup and official full launch of the LUG also possibly in November or December
+
+
+If you're intersted in meeting a group of like minded people, who love FOSS please reach out to us at [todo add email/form]
+
+If you'd like to know more about "us" the people behind the push to revive the banglore LUG check out out [about page](/about)
